@@ -15,3 +15,4 @@ Please kindly note that there are some restrictions if you want to use this arch
 * You are allowed to download, read, modify, or share my solution (`puzzle.py`) freely.
 * You are allowed to download or read the problem statement (`puzzle.pdf`) freely.
 * You are **NOT** allowed to modify, copy, or share the problem statement without permission from the professors who taught this course in CUHK(SZ).
+* CUHK(SZ) students who have not learned but plan to enroll in this course are **NOT** allowed to download, read, copy, modify, or share **any** materials (including problem statements and my solution) in this archive. **ACADEMIC HONESTY DOES MATTER**.
